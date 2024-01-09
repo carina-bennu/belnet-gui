@@ -72,6 +72,6 @@ ts-gen
 
 patches/mtime-cache.json
 
-release/
+#release/
 
 .gdb_history
